@@ -1,0 +1,81 @@
+KYM_GALLERY_PULL Function Initiated: 12/03/2021, 00:00:00...Collecting image gallery "yassification" from KnowYourMeme.
+Retrieving image hrefs from page 1 of yassification gallery...
+Retrieving image hrefs from page 2 of yassification gallery...
+Retrieving image hrefs from page 3 of yassification gallery...
+Completed gallery href collection for yassification gallery.
+The total number of URLs is 24.
+Retrieving img at href /photos/2257138-yassification
+https://knowyourmeme.com/memes/yassification/photos/2257138-yassification
+Retrieving Image 002_257_138_9a7.jpg
+Retrieving img at href /photos/2249807-yassification
+https://knowyourmeme.com/memes/yassification/photos/2249807-yassification
+Retrieving Image 002_249_807_3a3.jpg
+Retrieving img at href /photos/2247694-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247694-yassification
+Retrieving Image 002_247_694_60b.png
+Retrieving img at href /photos/2247693-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247693-yassification
+Retrieving Image 002_247_693_ebf.png
+Retrieving img at href /photos/2247690-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247690-yassification
+Retrieving Image 002_247_690_c67.png
+Retrieving img at href /photos/2247689-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247689-yassification
+Retrieving Image 002_247_689_213.png
+Retrieving img at href /photos/2247686-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247686-yassification
+Retrieving Image 002_247_686_b4f.png
+Retrieving img at href /photos/2247685-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247685-yassification
+Retrieving Image 002_247_685_243.png
+Retrieving img at href /photos/2247684-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247684-yassification
+Retrieving Image 002_247_684_1f2.png
+Retrieving img at href /photos/2247682-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247682-yassification
+Retrieving Image 002_247_682_e5e.png
+Retrieving img at href /photos/2247680-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247680-yassification
+Retrieving Image 002_247_680_cbd.png
+Retrieving img at href /photos/2247678-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247678-yassification
+Retrieving Image 002_247_678_5ba.png
+Retrieving img at href /photos/2247677-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247677-yassification
+Retrieving Image 002_247_677_b99.png
+Retrieving img at href /photos/2247675-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247675-yassification
+Retrieving Image 002_247_675_3d4.png
+Retrieving img at href /photos/2247672-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247672-yassification
+Retrieving Image 002_247_672_e4e.png
+Retrieving img at href /photos/2247671-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247671-yassification
+Retrieving Image 002_247_671_33f.png
+Retrieving img at href /photos/2247667-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247667-yassification
+Retrieving Image 002_247_667_5dd.png
+Retrieving img at href /photos/2247663-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247663-yassification
+Retrieving Image 002_247_663_96b.png
+Retrieving img at href /photos/2247661-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247661-yassification
+Retrieving Image 002_247_661_923.png
+Retrieving img at href /photos/2247659-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247659-yassification
+Retrieving Image 002_247_659_807.png
+Retrieving img at href /photos/2247658-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247658-yassification
+Retrieving Image 002_247_658_d0d.png
+Retrieving img at href /photos/2247636-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247636-yassification
+Retrieving Image 002_247_636_45e.png
+Retrieving img at href /photos/2247633-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247633-yassification
+Retrieving Image 002_247_633_38c.png
+Retrieving img at href /photos/2247629-yassification
+https://knowyourmeme.com/memes/yassification/photos/2247629-yassification
+Retrieving Image 002_247_629_6ff.png
+Metadata file completed.
+KYM_GALLERY_PULL Function Completed.
+
