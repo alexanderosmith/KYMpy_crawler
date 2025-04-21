@@ -1,0 +1,10 @@
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 17 Apr 2025 20:56:30 GMT
+Content-Type: text/plain
+Last-Modified: Thu, 17 Apr 2025 19:55:28 GMT
+Vary: Accept-Encoding
+Etag: W/"68015cb0-23c"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip

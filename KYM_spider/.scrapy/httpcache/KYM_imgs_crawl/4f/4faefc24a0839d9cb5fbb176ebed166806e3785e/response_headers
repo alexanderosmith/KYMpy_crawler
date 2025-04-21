@@ -1,0 +1,19 @@
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 17 Apr 2025 21:14:35 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+Etag: W/"69ff90bb481cd5d40a6c4262829be038"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: split=%7B%22split%3A217606%22%3A%22control%22%7D; path=/; expires=Fri, 18-Apr-2025 21:14:35 GMT; secure
+Set-Cookie: split_all_domain=%7B%22split%3A217606%22%3A%22control%22%7D; domain=knowyourmeme.com; path=/; expires=Fri, 18-Apr-2025 21:14:35 GMT; secure
+Set-Cookie: _know_your_meme_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTNlNWQ4NmI0NjBkMDMzMzI1OWZkMmNjNzE2NmM2NGY1BjsAVEkiCW5zZncGOwBGRg%3D%3D--7874fb17d96ce362fb8dcc5c59961b83fa03b685; domain=.knowyourmeme.com; path=/; secure; HttpOnly
+X-Request-Id: f989c42322fc685fc1b5dc9e1c4083c2
+X-Runtime: 0.719166
+X-Rack-Cache: miss
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip

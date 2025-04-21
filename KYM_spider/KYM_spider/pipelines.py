@@ -12,7 +12,7 @@ import re
 # Custom image pipeline that names images image_name
 class ImgIDPipeline(ImagesPipeline):
 
-    def file_path(self, request, response=None, info=None):
+    def file_path(self, request, response=None, info=None, item=None):
         # Building the name from the request URL, which contains img ID.
         # Image ID is after "newsfeed" in the URL
         image_name = request.url.split('newsfeed')[-1]

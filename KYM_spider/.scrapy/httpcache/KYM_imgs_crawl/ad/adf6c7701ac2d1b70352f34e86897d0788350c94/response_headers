@@ -1,0 +1,12 @@
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 17 Apr 2025 20:56:37 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+Cache-Control: no-cache
+X-Request-Id: 91699827d732631d2b1b80f28e7d21fd
+X-Runtime: 0.023795
+X-Rack-Cache: miss
+Content-Encoding: gzip

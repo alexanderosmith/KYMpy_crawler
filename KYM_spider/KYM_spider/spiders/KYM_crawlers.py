@@ -390,14 +390,16 @@ class imgs(scrapy.Spider):
 
     def __init__(self, meme='rickroll', **kwargs):
         global meme_url
-        meme_clean = re.sub('[^A-Za-z0-9 ]', '', meme)
-        meme_url = re.sub(' ', '-', meme_clean).lower()
+        #meme_clean = re.sub('[^A-Za-z0-9 ]', '', meme)
+        meme_url = re.sub(' ', '-', meme).lower()
+        print(meme_url)
         self.start_urls = [f'https://knowyourmeme.com/memes/{meme_url}/photos']
+        # https://knowyourmeme.com/memes/doge/photos
         super().__init__(**kwargs)
 
     custom_settings = {
         'ITEM_PIPELINES': {'KYM_spider.pipelines.ImgIDPipeline': 1},
-        'IMAGES_STORE': 'images/garfielf'
+        'IMAGES_STORE': f'images/doge'
     }
     
     rules = ( # This should work bc it works in 'example_img' scraper.
@@ -467,5 +469,5 @@ class imgs(scrapy.Spider):
             joined_urls.append(response.urljoin(rel_img_url))
         return joined_urls
     
-# To run "scrapy crawl KYM_img_crawler -o KYMimg_url_ex.csv"
+# To run "scrapy crawl KYM_imgs_crawl -o KYMimg_url_ex.csv"
 
